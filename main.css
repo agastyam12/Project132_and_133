@@ -1,0 +1,13 @@
+body {
+    background:linear-gradient(to right, rgb(17, 0, 255) 0%, rgb(0, 119, 255) , rgb(0, 247, 255) 100%);
+}
+.image1,.image2,.image3,.image4,.image5 {
+    background-color:white; border-radius: 20px; width:50%;
+}
+#h3{
+    padding-bottom:5px; padding-top:5px;
+}
+button {
+    background-color: white;
+    border-color:whitesmoke;
+}
